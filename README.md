@@ -3,13 +3,13 @@
 🎯 Full Stack Developer | MERN Stack Specialist | UI/UX Innovator  
 📍 Salem, Tamil Nadu, India  
 📫 [selvasundar.mu@gmail.com](mailto:selvasundar.mu@gmail.com)  
-🔗 [Portfolio](#) • [LinkedIn](#) • [GitHub](#)
+🔗 [Portfolio](https://selvasundar36.github.io/selvasundar-portfolio/) • [LinkedIn](https://www.linkedin.com/in/selvasundarmu/ ) •
 
 ---
 
 ## 🔭 Current Focus
 
-🚀 Building the official **CyberTech 2k24** event site with interactive sliders, branded chatbot, and responsive support features  
+🚀 Building the official **event'25** event site with interactive sliders, branded chatbot, and responsive support features  
 📱 Designing mobile-first layouts with scroll snapping and swipe gestures  
 🧠 Integrating accessibility and user control into every feature  
 🛠️ Troubleshooting deployment issues and optimizing GitHub Pages
@@ -34,30 +34,16 @@ Also... I’m a master at turning bugs into breakthroughs 💡
 
 ## 🌐 Social Presence
 
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [Portfolio](#)
+- [linkedIn]((https://www.linkedin.com/in/selvasundarmu/ ))  
+  
+- [Portfolio]((https://selvasundar36.github.io/selvasundar-portfolio/))
 
 ---
 
-## 📊 GitHub Stats
 
-![Selva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
----
 
-## 🧠 LeetCode Stats
 
-[![Selva's LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/your-leetcode-username)
-
----
-
-## 📈 GitHub Activity Graph
-
-![Selva's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)
-
----
 
 ## 💻 I Code In
 
@@ -81,10 +67,10 @@ Also... I’m a master at turning bugs into breakthroughs 💡
 
 ## 💻 Workspace Specs
 
-- OS: Windows & Linux  
+- OS: Windows  
 - Editor: VS Code + IntelliJ IDEA  
 - Browser: Chrome (DevTools FTW!)  
-- Deployment: GitHub Pages, Netlify
+- Deployment: GitHub Pages, Netlify,versal
 
 ---
 
