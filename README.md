@@ -3,7 +3,7 @@
 🎯 Full Stack Developer | MERN Stack Specialist | UI/UX Innovator  
 📍 Salem, Tamil Nadu, India  
 📫 [selvasundar.mu@gmail.com](mailto:selvasundar.mu@gmail.com)  
-🔗 [Portfolio](https://selvasundar36.github.io/selvasundar-portfolio/) • [LinkedIn](https://www.linkedin.com/in/selvasundarmu/ ) •
+🔗 [Portfolio](https://selvasundar36.github.io/selvasundar-portfolio/) • [LinkedIn](https://www.linkedin.com/in/selvasundarmu/) •
 
 ---
 
@@ -34,9 +34,9 @@ Also... I’m a master at turning bugs into breakthroughs 💡
 
 ## 🌐 Social Presence
 
-- [linkedIn]((https://www.linkedin.com/in/selvasundarmu/ ))  
+-  [LinkedIn](https://www.linkedin.com/in/selvasundarmu/)  
   
-- [Portfolio]((https://selvasundar36.github.io/selvasundar-portfolio/))
+-[Portfolio](https://selvasundar36.github.io/selvasundar-portfolio/)
 
 ---
 
